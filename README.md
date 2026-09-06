@@ -7,7 +7,6 @@ Source for my personal academic homepage, built with **plain HTML/CSS/JS** — n
 ## About
 
 - **Author:** Chen Chen (chenchen · 陈宸)
-- PhD candidate in Computer Science, Harbin Institute of Technology, Shenzhen（哈尔滨工业大学（深圳））
 - Research: **AI agents · Multimodal large models**
 - Content: Bio · Education · Awards · Publications
 
